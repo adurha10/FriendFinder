@@ -16,7 +16,7 @@ var friends = [
             4,
             1
           ]
-    }
+    },
     {
         "name":"Todd",
         "photo":"https://static.pexels.com/photos/220453/pexels-photo-220453.jpeg",
@@ -32,23 +32,23 @@ var friends = [
             5,
             1
           ]
-    }
+    },
     {
         "name":"Janice",
         "photo":"https://static.pexels.com/photos/355164/pexels-photo-355164.jpeg",
         "scores":[
-            2,
-            4,
             3,
-            5,
-            2,
-            1,
-            5,
-            4,
-            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
             3
           ]
-    }
+    },
     {
         "name":"Jerry",
         "photo":"https://static.pexels.com/photos/325682/pexels-photo-325682.jpeg",
@@ -64,7 +64,7 @@ var friends = [
             4,
             4
           ]
-    }
+    },
     {
         "name":"Reginald",
         "photo":"https://static.pexels.com/photos/35065/homeless-man-color-poverty.jpg",
@@ -82,3 +82,5 @@ var friends = [
           ]
     }
 ]
+
+module.exports = friends;
